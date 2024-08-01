@@ -127,14 +127,14 @@ def answer_question(question: str, vectorstore: None | FAISS, model_name: str) -
         dedent(
             """
     以下の前提知識を用いて、ユーザーからの質問に答えてください。
-    
+
     ===
     前提知識
     {context}
-    
+
     ===
     ユーザーからの質問
-    {question}                                              
+    {question}
     """
         )
     )
