@@ -1,0 +1,9 @@
+gradio
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-core
+langchain_huggingface
+llama-cpp-python
+PyPDF2
+
